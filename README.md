@@ -9,3 +9,4 @@ In this code the user either input different features dimensions that will outpu
 The other feature of the project gives the possibility to the user to upload an ultrasound image, which will output whether it results as Malignant or Benign (using a Xception model).
 
 There is a testfile included to try it out manually. Also, I've included the best performant models that managed to save as an H5 file.
+(unfortunately the H5 file for the Xception model is too big to be uploaded. Therefore, it will have to be personally requested)
